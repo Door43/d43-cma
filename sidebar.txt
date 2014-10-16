@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cma:home|Door43 (cma)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cma|d43-cma repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cma/archive/master.zip|d43-cma.zip]]
+
+**Recent Changes**
+{{changes>ns = cma}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cma|Ethnologue data]]
+
